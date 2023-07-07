@@ -1,0 +1,11 @@
+The Project is a content based movies recommender system. 
+There are 2 ipynb files:
+
+1) Movie_Recommender_System.ipynb: This has all the manipulation and engineering the data needed. All necessary steps for pre processing are done.
+				Two .csv files were imported and merged to get the  required details.
+				
+
+2) Streamlit_app.ipynb: here a small code using streamlit is written to give it a UI where the user can search or select a movie from drop down menu and click 			on the recommend button. the recommendations will be displayed
+
+
+
